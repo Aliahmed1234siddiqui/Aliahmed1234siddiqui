@@ -58,9 +58,9 @@ Exploring full-stack development with React, Node.js, and Express📌
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-ahmed-siddiqui-290b14294/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-<a href="mailto:aliahmedsiddiqui48@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/></a>
-<a href="https://www.instagram.com/aliahmedsiddiqui786/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHP2W0X8Bj9Wwou8Y5Iv2q_Aa-nME9SMwEAA&s"/></a>
+<a href="https://www.linkedin.com/in/ali-ahmed-siddiqui-290b14294/"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+<a href="mailto:aliahmedsiddiqui48@gmail.com"><img width="100px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/></a>
+<a href="https://www.instagram.com/aliahmedsiddiqui786/"><img width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHP2W0X8Bj9Wwou8Y5Iv2q_Aa-nME9SMwEAA&s"/></a>
  </p>
  
 <br>
