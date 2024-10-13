@@ -23,24 +23,16 @@ Exploring full-stack development with React, Node.js, and Express📌
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" >
-   
     </td>
     <td align='center' width="200">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" >
-     
     </td>
     <td align='center' width="200">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnAo0AW46nDiN8eGMLU49t2n_-x5beYvpRA&s" >
-     
     </td>
     <td align='center' width="200">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" >
-    
     </td>
-
-
- 
- 
 </tr>
  
 <tr>
